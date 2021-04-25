@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>com.oasis.recreation</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>46</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
-				<string>com.apple.platform.iphoneos</string>
+				<string>com.GamePark.GoldenAisa</string>
 				<key>title</key>
-				<string>绿洲测试</string>
+				<string>金亚洲正式服</string>
 			</dict>
 		</dict>
 	</array>

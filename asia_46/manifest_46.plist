@@ -34,8 +34,6 @@
 				<string>46</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>platform-identifier</key>
-				<string>com.GamePark.GoldenAisa</string>
 				<key>title</key>
 				<string>金亚洲正式服</string>
 			</dict>

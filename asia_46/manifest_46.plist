@@ -32,8 +32,6 @@
 				<string>com.GamePark.GoldenAisa</string>
 				<key>bundle-version</key>
 				<string>46</string>
-				<key>platform-identifier</key>
-				<string>com.GamePark.GoldenAisa</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
